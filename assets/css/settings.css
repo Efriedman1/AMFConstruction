@@ -23,6 +23,7 @@ website:   	http://www.themepunch.com
 **********************************************/
 
 .tp-banner-container{
+	height: 645px;
 	width:100%;
 	position:relative;
 	padding:0;
@@ -35,7 +36,6 @@ website:   	http://www.themepunch.com
 .tp-banner-fullscreen-container {
 		width:100%;
 		position:relative;
-		height: 560px;
 		padding:0;
 }
 
